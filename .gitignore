@@ -1,0 +1,8 @@
+RecipeScraper/spiders/*.csv
+RecipeScraper/spiders/*.json
+.vscode*
+*.csv
+*.json
+__pycache__/
+**/__pycache
+*.pyc
